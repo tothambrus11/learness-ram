@@ -14,7 +14,7 @@
 </script>
 
 <div class="counter">
-  <button on:click={() => count -= count} aria-label="Decrease the counter by one">
+  <button on:click={() => count -= +!!count} aria-label="Decrease the counter by one if it's positive">
     <svg aria-hidden="true" viewBox="0 0 1 1">
       <path d="M0,0.5 L1,0.5" />
     </svg>
