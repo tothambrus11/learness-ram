@@ -9,3 +9,6 @@ An application that helps downloading more RAM on your computer.
 
 ## How It Works
 The application uses the [download-more-ram](https://www.npmjs.com/package/download-more-ram) package to download more RAM.
+
+## License
+MIT
