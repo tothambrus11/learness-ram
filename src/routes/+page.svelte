@@ -8,6 +8,9 @@
     Download More Ram
   </h1>
 
+  <p>
+    How many GB of RAM do you want to download?
+  </p>
   <table border="0">
     <tr>
       <td>
